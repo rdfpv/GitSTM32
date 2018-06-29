@@ -1,2 +1,2 @@
-# GitSTM32
-Demo git stm32
+# TestSTM32
+True - D 2.4G
